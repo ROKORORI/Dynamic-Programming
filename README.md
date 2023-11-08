@@ -1,1 +1,1 @@
-# :pencil2: Algorithm problem solve
+# :pencil2: Dynamic Programming
